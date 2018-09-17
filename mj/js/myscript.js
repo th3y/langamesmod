@@ -6,7 +6,7 @@ $(document).ready(function(){
 	$("<option />", {
 	   "selected": "selected",
 	   "value"   : "",
-	   "text"    : "Seleccione una opcion"
+	   "text"    : "Seleccione una página aquí"
 	}).appendTo("nav#main_menu select");	
 	
 	// Populate dropdowns with the first menu items
@@ -36,18 +36,7 @@ $(document).ready(function(){
 		else $(this).attr('src',ifr_source+'?'+wmode);
 	});
 			
-	//Twitter Setup
 
-	
-	//Flickr Integration
-   /* $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?id=36334875@N04&lang=en-us&format=json&jsoncallback=?", function(data){
-		$.each(data.items, function(i,item){
-			if(i<=11){ // <— change this number to display more or less images
-				$("<img/>").attr("src", item.media.m.replace('_m', '_s')).appendTo(".FlickrImages ul")
-				.wrap("<li><a href='" + item.link + "' target='_blank' title='Flickr'></a></li>");
-			}
-		});			
-    });	*/
 	
 	//Tooltip
 	$('.follow_us a').tooltip();
