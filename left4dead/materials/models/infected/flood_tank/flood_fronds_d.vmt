@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+$baseTexture "models\infected\Flood_Tank\Flood_Fronds_D"
+$bumpmap "models\infected\Flood_Tank\Flood_Fronds_N"
+$phong 1
+$phongboost ".1"
+$phongexponent 1
+$phongtint "[.85 .85 1]"
+$halflambert 0
+$phongfresnelranges "[.3 .65 30]"
+$translucent	"1"
+$ambientocclusion 1
+
+
+
+$diffuseexp "1.5"
+}
