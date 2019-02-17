@@ -1,0 +1,20 @@
+patch
+{
+
+include "materials/models/survivors/survivors_it_shared.vmt"
+insert
+{
+
+$baseTexture "models\fakesur\gambler\gambler_head_color"
+
+$phong 1
+$phongboost "1.4"
+$phongexponent 10
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+
+$ambientocclusion 1
+$halflambert 0
+$diffuseexp "1.5"
+}
+}
