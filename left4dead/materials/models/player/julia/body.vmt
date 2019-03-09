@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/players/julia/body"
+	
+	$phong 1
+//	$phongexponent 20
+//		$phongexponenttexture "models/deadspace/corpses/julia/body_phong"
+	$phongboost	1
+	$phongfresnelranges	"[0.05 0.5 1]"
+}
