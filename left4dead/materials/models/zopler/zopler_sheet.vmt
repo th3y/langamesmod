@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/zopler/zopler_sheet"
+	"$bumpmap" "models/zopler/zopler_sheet_normal"
+}
