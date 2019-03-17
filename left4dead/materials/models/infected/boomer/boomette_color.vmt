@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$basetexture "models\infected\boomer\boomette_color"
+$halflambert 0
+$diffuseexp 1
+$phongboost 2
+$phongfresnelranges "[.2 0.5 5]"
+$ambientocclusion 1
+}
