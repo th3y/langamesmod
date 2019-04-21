@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\hockey\hockey_a_df"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

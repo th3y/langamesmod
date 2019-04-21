@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "anbu/anbumask"
+	"$halflambert" "1"
+
+}
