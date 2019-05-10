@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture "models\boomette\boomette_color"
+$phong 1
+$phongexponenttexture "models\boomette\boomette_exponent"
+$lightwarptexture "models\boomette\bomito_head_wrp"
+$halflambert 0
+$diffuseexp 1
+$phongboost 2
+$phongfresnelranges "[.2 0.5 5]"
+$ambientocclusion 1
+}

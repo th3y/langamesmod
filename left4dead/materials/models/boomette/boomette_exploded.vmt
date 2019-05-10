@@ -1,0 +1,4 @@
+VertexLitGeneric
+{
+$baseTexture "models\boomette/boomette_exploded"
+}
