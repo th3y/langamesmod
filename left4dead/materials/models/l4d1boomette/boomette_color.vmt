@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$basetexture "models\l4d1boomette\boomette_color"
+$ambientocclusion 1
+}
