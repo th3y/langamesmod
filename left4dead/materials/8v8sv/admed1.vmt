@@ -1,0 +1,8 @@
+DecalModulate
+{
+$basetexture "8v8sv/admed1"
+$surfaceprop default
+$decal 1
+$vertexcolor 1
+$vertexalpha 1
+}
